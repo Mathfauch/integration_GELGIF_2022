@@ -1,5 +1,9 @@
+html {
+    background-image: url("floral_background.gif");
+}
+
 body {
-    background-color: rgba(0, 217, 255, 0.11);
+    background-image: url("floral_background.gif");
 }
 nav {
     font-size: 14px;
