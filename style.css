@@ -1,7 +1,3 @@
-html {
-    background-image: url("floral_background.gif");
-}
-
 body {
     background-image: url("floral_background.gif");
 }
@@ -9,9 +5,9 @@ nav {
     font-size: 14px;
     font-family: Georgia;
     text-align: center;
-    color: black;
+    color: white;
 }
-div {
+.barre {
     width: 119px;
     border: solid 1px;
     float: left;
@@ -27,6 +23,19 @@ a:last-child div {
     border-top-right-radius: 4px;
     border-bottom-right-radius: 4px;
 }
-div:hover {
+.barre:hover {
     background-color: gold;
+}
+h1 {
+    color: lightpink;
+    text-align: center;
+}
+p {
+    color: black;
+    text-align: justify;
+    background-color: lightpink;
+}
+.texte {
+    border-style: groove;
+    content: width=device-width, initial-scale=1.0"
 }
